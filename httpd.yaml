@@ -1,0 +1,5 @@
+# Target - Where you want to exexute the tasks
+# Install Apache 
+# Start the apache and enable on reboot
+# Sart the httpd Service
+# Copy The index.html file 
