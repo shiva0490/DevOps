@@ -8,4 +8,4 @@
 
 - Understad reset
 
-# *This line to demostrate mere conflict !! This line is written by Shiva user*
+# *This line to demostrate mere conflict !! This line is written by Shiva user and confirmed by linux user*
